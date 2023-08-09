@@ -1,5 +1,5 @@
-<!-- <script>
+<script>
    export let data ;
 </script>
 
-<h1>vs code {data}</h1> -->
+<h1>vs code {data}</h1>
